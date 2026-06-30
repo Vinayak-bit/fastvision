@@ -1,0 +1,10 @@
+*.pth
+*.onnx
+checkpoints/
+models/
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/
+results/
